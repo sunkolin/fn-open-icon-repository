@@ -1,0 +1,11 @@
+appname               = open-icon-repository
+version               = 1.0.0
+display_name          = 白兔开源图标
+desc                  = 白兔开源图标
+platform              = all
+source                = thirdparty
+maintainer            = 小林
+distributor           = 小林
+desktop_uidir         = ui
+desktop_applaunchname = open-icon-repository.Application
+service_port          = 6024
